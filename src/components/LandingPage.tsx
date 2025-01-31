@@ -91,7 +91,7 @@ export const LandingPage = ({ onAuthenticate }: LandingPageProps) => {
                 onClick={() => handleAuthOpen('login')}
                 className="px-4 py-2 text-gray-700 hover:text-gray-900"
               >
-                Sign In
+                Sign UP
               </button>
               <button
                 onClick={() => handleAuthOpen('signup')}
